@@ -6,15 +6,11 @@ class Solution {
            map.put(index, map.getOrDefault(index, 0) + 1);
         }
 
-        int value = 0;
-        int answer  = 0;
-
         for (int key : map.keySet()) {
-            if (value < map.get(key)) {
-                value = Math.max(value, map.get(key));
-                answer = key;
+            if (map.get(key) > nums.length /2) {
+                return key;
             }
         }
-        return answer;
+        return 0;
     }
 }
