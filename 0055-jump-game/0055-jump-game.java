@@ -6,7 +6,6 @@ class Solution {
                 position = index;
             }
         }
-        System.gc();
         return position == 0;
     }
 }
