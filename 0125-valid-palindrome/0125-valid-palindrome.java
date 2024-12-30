@@ -1,3 +1,14 @@
+import java.util.HashMap;
+
+public class Main {
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+
+        System.out.println(solution.isPalindrome(" "));
+    }
+}
+
+
 class Solution {
     public boolean isPalindrome(String s) {
 
@@ -5,7 +16,7 @@ class Solution {
         s = s.toLowerCase();
         int start = 0;
         int end = s.length() - 1;
-        
+
         boolean result = true;
 
         while(start < end) {
@@ -30,6 +41,6 @@ class Solution {
         return result;
     }
     boolean isAlphanumeric(char c) {
-        return c >= 'A' && c <= 'Z' || c >= 'a' && c <= 'z' || c >= '0' && c <= '9';
+        return Character.isLetterOrDigit(c);
     }
 }
