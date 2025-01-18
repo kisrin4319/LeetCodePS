@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kisrin4319/LeetCodePS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kisrin4319/LeetCodePS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kisrin4319/LeetCodePS/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kisrin4319/LeetCodePS/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/kisrin4319/LeetCodePS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kisrin4319/LeetCodePS/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kisrin4319/LeetCodePS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kisrin4319/LeetCodePS/tree/master/0383-ransom-note) |
 ## Divide and Conquer
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kisrin4319/LeetCodePS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
