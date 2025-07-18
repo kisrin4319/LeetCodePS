@@ -3,21 +3,15 @@ class Solution {
 
         int max = Integer.MIN_VALUE;
 
-        List <Boolean> result = new ArrayList<>();
+        Boolean[] result = new Boolean[candies.length];
 
         for (int candy : candies) {
-            if (candy > max) {
-                max = candy;
-            }
+            max = Math.max(candy, max);
         }
 
-        for (int candy : candies) {
-            if (candy+extraCandies >= max) {
-                result.add(true);
-            } else {
-                result.add(false);
-            }
+        for (int index = 0; index < result.length; index++) {
+            result[index] = candies[index] + extraCandies >= max;
         }
-        return result;
+        return Arrays.asList(result);
     }
 }
