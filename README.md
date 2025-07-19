@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kisrin4319/LeetCodePS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kisrin4319/LeetCodePS/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/kisrin4319/LeetCodePS/tree/master/0238-product-of-array-except-self) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kisrin4319/LeetCodePS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kisrin4319/LeetCodePS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0142-linked-list-cycle-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kisrin4319/LeetCodePS/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
