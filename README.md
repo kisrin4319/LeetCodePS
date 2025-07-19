@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kisrin4319/LeetCodePS/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kisrin4319/LeetCodePS/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/kisrin4319/LeetCodePS/tree/master/0283-move-zeroes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kisrin4319/LeetCodePS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/kisrin4319/LeetCodePS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kisrin4319/LeetCodePS/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/kisrin4319/LeetCodePS/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kisrin4319/LeetCodePS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kisrin4319/LeetCodePS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kisrin4319/LeetCodePS/tree/master/0443-string-compression) |
