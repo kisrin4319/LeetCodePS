@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kisrin4319/LeetCodePS/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kisrin4319/LeetCodePS/tree/master/0283-move-zeroes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kisrin4319/LeetCodePS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kisrin4319/LeetCodePS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kisrin4319/LeetCodePS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kisrin4319/LeetCodePS/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/kisrin4319/LeetCodePS/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kisrin4319/LeetCodePS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kisrin4319/LeetCodePS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kisrin4319/LeetCodePS/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kisrin4319/LeetCodePS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kisrin4319/LeetCodePS/tree/master/0383-ransom-note) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
