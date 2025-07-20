@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kisrin4319/LeetCodePS/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kisrin4319/LeetCodePS/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/kisrin4319/LeetCodePS/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kisrin4319/LeetCodePS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/kisrin4319/LeetCodePS/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
 | ------- |
