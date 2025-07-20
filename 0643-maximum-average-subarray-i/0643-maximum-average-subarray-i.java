@@ -13,6 +13,6 @@ class Solution {
             windowSum+= nums[i] - nums[i-k];
             maxSum = Math.max(maxSum,windowSum);
         }
-        return (double)maxSum / (double)k;        
+        return (double)maxSum /k;        
     }
 }
