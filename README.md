@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kisrin4319/LeetCodePS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/kisrin4319/LeetCodePS/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/kisrin4319/LeetCodePS/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kisrin4319/LeetCodePS/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kisrin4319/LeetCodePS/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/kisrin4319/LeetCodePS/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/kisrin4319/LeetCodePS/tree/master/1833-find-the-highest-altitude) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/2428-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
