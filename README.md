@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kisrin4319/LeetCodePS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kisrin4319/LeetCodePS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kisrin4319/LeetCodePS/tree/master/0242-valid-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kisrin4319/LeetCodePS/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kisrin4319/LeetCodePS/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/kisrin4319/LeetCodePS/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kisrin4319/LeetCodePS/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kisrin4319/LeetCodePS/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kisrin4319/LeetCodePS/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kisrin4319/LeetCodePS/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kisrin4319/LeetCodePS/tree/master/0383-ransom-note) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kisrin4319/LeetCodePS/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kisrin4319/LeetCodePS/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kisrin4319/LeetCodePS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kisrin4319/LeetCodePS/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kisrin4319/LeetCodePS/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/kisrin4319/LeetCodePS/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
