@@ -1,41 +1,22 @@
 class Solution {
     public List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
+        Set<Integer> set1 = new HashSet<>();
+        Set<Integer> set2 = new HashSet<>();
 
+        for (int num : nums1) set1.add(num);
+        for (int num : nums2) set2.add(num);
 
-        HashSet<Integer> set1 = new HashSet<>();
-        HashSet<Integer> set2 = new HashSet<>();
+        // 각각 복사해서 차집합
+        Set<Integer> onlyIn1 = new HashSet<>(set1);
+        onlyIn1.removeAll(set2); // nums1에는 있지만 nums2에는 없는 값
 
-        for (int num : nums1) {
-            boolean isDuplicate = false;
-            for (int num2 : nums2) {
-                if (num == num2) {
-                    isDuplicate = true;
-                    break;
-                }
-            }
-            if (!isDuplicate) {
-                set1.add(num);
-            }
-        }
-
-        for (int num : nums2) {
-            boolean isDuplicate = false;
-            for (int num2 : nums1) {
-                if (num == num2) {
-                    isDuplicate = true;
-                    break;
-                }
-            }
-            if (!isDuplicate) {
-                set2.add(num);
-            }
-        }
+        Set<Integer> onlyIn2 = new HashSet<>(set2);
+        onlyIn2.removeAll(set1); // nums2에는 있지만 nums1에는 없는 값
 
         List<List<Integer>> result = new ArrayList<>();
-        List<Integer> res1 = new ArrayList<>(set1);
-        List<Integer> res2 = new ArrayList<>(set2);
-        result.add(res1);
-        result.add(res2);
+        result.add(new ArrayList<>(onlyIn1));
+        result.add(new ArrayList<>(onlyIn2));
+
         return result;
     }
 }
