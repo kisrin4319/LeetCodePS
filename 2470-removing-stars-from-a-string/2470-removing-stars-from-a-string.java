@@ -3,24 +3,13 @@ class Solution {
 
         StringBuilder sb = new StringBuilder();
 
-        Stack<Character> st = new Stack<Character>();
-
         for (char c : s.toCharArray()) {
-            if (st.isEmpty()) {
-                if (c != '*') {
-                    st.push(c);
-                }                
+            if (c == '*') {
+                sb.deleteCharAt(sb.length()-1);
             } else {
-                if (c != '*') {
-                    st.push(c);
-                } else {
-                    st.pop();
-                }
+                sb.append(c);
             }
-        }
-        while(!st.isEmpty()) {
-            sb.append(st.pop());
-        }
-        return sb.reverse().toString();
+        }       
+        return sb.toString();
     }
 }
