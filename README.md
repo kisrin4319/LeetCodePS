@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kisrin4319/LeetCodePS/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kisrin4319/LeetCodePS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kisrin4319/LeetCodePS/tree/master/0055-jump-game) |
+| [0649-dota2-senate](https://github.com/kisrin4319/LeetCodePS/tree/master/0649-dota2-senate) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kisrin4319/LeetCodePS/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/kisrin4319/LeetCodePS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kisrin4319/LeetCodePS/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/kisrin4319/LeetCodePS/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kisrin4319/LeetCodePS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kisrin4319/LeetCodePS/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kisrin4319/LeetCodePS/tree/master/1777-determine-if-two-strings-are-close) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/kisrin4319/LeetCodePS/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/kisrin4319/LeetCodePS/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
